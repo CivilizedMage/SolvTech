@@ -1,4 +1,4 @@
-Requerimientos funcionales
+Requerimientos funcionales:
 
 1.- 
 2.-
@@ -6,7 +6,7 @@ Requerimientos funcionales
 4.-
 5.-
 
-Requerimientos no funcionales
+Requerimientos no funcionales:
 
 1.-
 2.-
